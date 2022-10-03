@@ -1,0 +1,14 @@
+.header-container ul{
+    list-style-type: none;
+}
+.header-container ul li{
+    display: inline;
+    margin: 20px;
+}
+.header-container ul li a{
+    text-decoration: none;
+}
+.active{
+    color:lightseagreen;
+    font-weight: bold;
+}
